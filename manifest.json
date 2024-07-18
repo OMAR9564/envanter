@@ -1,10 +1,12 @@
 {
     "name": "Envanter App",
     "short_name": "Envanter",
-    "start_url": "/index.html",
+    "start_url": "/",
+    "scope": "/",
     "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
     "icons":[
         {
             "src": "img/icons/order_icon_32px.png",

@@ -1,3 +1,9 @@
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('../service-worker.js')
+        .then(function() { console.log('Service Worker Registered'); });
+}else{
+    console.log('omer', navigator);
+}
 const inventoryData = [
     { id: 1, name: "Ofis Masası", image: "img/ofis-masa.jpg", quantity: 4 },
     { id: 2, name: "Monitör", image: "img/monitor.jpg", quantity: 5 },
