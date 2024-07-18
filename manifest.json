@@ -1,0 +1,46 @@
+{
+    "name": "Envanter App",
+    "short_name": "Envanter",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons":[
+        {
+            "src": "img/icons/order_icon_32px.png",
+            "size": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/order_icon_48px.png",
+            "size": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/order_icon_64px.png",
+            "size": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/order_icon_72px.png",
+            "size": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/order_icon_96px.png",
+            "size": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/order_icon_128px.png",
+            "size": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icons/order_icon_256px.png",
+            "size": "256x256",
+            "type": "image/png"
+        }
+    ]
+    
+  }
